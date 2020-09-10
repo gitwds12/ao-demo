@@ -4,6 +4,9 @@ import com.example.demo.annotation.OperateLog;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+/**
+ * 控制器
+ * */
 @RestController
 public class HelloController {
 
